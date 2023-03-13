@@ -1,2 +1,2 @@
-# DIO - Lógica Condicional e Controle de Fluxos em Java
-Módulo "Lógica Condicional e Controle de Fluxos em Java" - Bootcamp Banco PAN Java Developer
+# **DIO - Estruturas de Repetição e Arrays em Java**
+Módulo "Estruturas de Repetição e Arrays em Java" - Bootcamp Banco PAN Java Developer
