@@ -1,0 +1,35 @@
+ESTRUTURA DE REPETIÇÃO
+
+-o poder dos computadores está na sua habilidade de repetir uma operação ou uma série de operações várias vezes.
+	-cada repetição é chamada de laço (loop)
+	-uma estrutura de repetição permite que uma sequência de comandos seja executada repetidamente, caso determinadas condições sejam satisfeitas => essas condições são representadas por expressões lógicas
+-as estruturas de repetição podem ser classificadas em:
+	-repetição com teste no início => while
+	-repetição com teste no final => do-while
+	-repetição contada => for
+-comando "break" => termina de forma abrupta uma repetição
+-comando "continue" => ao ser executado, os comandos restantes da repetição são ignorados e o programa volta a testar novamente ou não
+	-o que estiver após o contínue não é executado
+	-só pode ser utilizado dentro de uma estrutura de repetição
+	-pouco utilizado
+	
+OPERADORES DE INCREMENTO E DECREMENTO
+
+-pré-fixados
+	-soma uma unidade ao valor da variável e, depois, retorna um número
+		- ++numero;
+		- numero = numero + 1;
+		  retorna numero;
+	-subtrai uma unidade do valor da variável e, depois, retorna um número
+		- --numero;
+		- numero = numero - 1;
+		  retorna numero;	  
+-pós-fixados
+	-soma um ao valor da variável, retornando o valor original
+		- numero++;
+		- retorna numero;
+		  numero = numero + 1;
+	-subtrai um do valor da variável, retornando o valor original
+		- numero--;
+		- retorna numero;
+		  numero = numero - 1;	  
